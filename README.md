@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @epmaya
+- 👋 Hi, I’m maya
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning python and k8s
 - 💞️ I’m looking to collaborate on ...
